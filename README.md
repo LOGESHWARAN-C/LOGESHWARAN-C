@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 **LOGESHWARAN-C/LOGESHWARAN-C**
 
 - 🌱 I’m currently learning C, python, java
